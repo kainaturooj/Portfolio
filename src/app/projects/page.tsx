@@ -114,7 +114,6 @@ import clockTimeImage from "../../../public/images/clockEdited.jpg"
 
     </div>
           
-
     </div>
         
     </>
